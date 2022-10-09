@@ -2,11 +2,11 @@
 
 int main()
 {
-  int side, CSA;
+  int side, TSA;
   printf("Side= ");
   scanf("%d", &side);
   
-  CSA = 6* side*side;
-  printf("CSA: %d", CSA);
+  TSA = 6* side*side;
+  printf("TSA: %d", CSA);
   
 }
