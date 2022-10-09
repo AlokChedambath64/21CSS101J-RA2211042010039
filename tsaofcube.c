@@ -7,6 +7,6 @@ int main()
   scanf("%d", &side);
   
   TSA = 6* side*side;
-  printf("TSA: %d", CSA);
+  printf("TSA: %d", TSA);
   
 }
