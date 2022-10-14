@@ -2,6 +2,7 @@
 
 int main()
 {
+  printf("Registration Number: RA2211042010039\n");
   printf("Enter a positive integer: ");
   scanf("%d", &num);
   printf("Factors of %d are: ", num);
