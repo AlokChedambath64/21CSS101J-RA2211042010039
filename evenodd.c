@@ -2,6 +2,7 @@
 
 int main()
 {
+printf("Registration Number: RA2211042010039\n");
 int num;
 printf("Enter an integer: ");
 scanf("%d", &num);
