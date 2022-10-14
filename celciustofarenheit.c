@@ -2,6 +2,7 @@
 
 int main()
 {
+  printf("Registration Number: RA2211042010039\n");
   float farenheit, celcius;
   printf("Enter the temperature in celcius: ");
   scanf("%f", &celcius);
