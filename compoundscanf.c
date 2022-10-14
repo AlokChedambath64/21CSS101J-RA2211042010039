@@ -3,6 +3,7 @@
 
 int main()
 {
+	printf("Registration Number: RA2211042010039\n");
 	float principal, rate, time, CI;
 	//input principal
 	printf("Enter Principal Amount: ");
