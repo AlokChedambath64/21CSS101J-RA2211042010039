@@ -2,6 +2,7 @@
 
 int main()
 {
+  printf("Registration Number: RA2211042010039\n");
   int n1, n2, n3;
   printf("Number 1: ");
   scanf("%d", &n1);
