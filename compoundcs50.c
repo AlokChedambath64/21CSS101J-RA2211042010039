@@ -4,6 +4,7 @@
 
 int main()
 	{
+	printf("Registration Number: RA2211042010039\n");
 	//Input Principal, Rate and Time
 	float principal = get_float("Enter Principal Amount: ");
 	float rate = get_float("Enter Rate: ");
