@@ -5,6 +5,7 @@
 
 int main()
 {
+    printf("Registration Number: RA2211042010039\n");
     int n, a, b, c, d,e, f, g, h, i, j, k, l;
     do
     {
