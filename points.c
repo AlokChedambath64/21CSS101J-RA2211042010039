@@ -3,6 +3,7 @@
 
 int main(void)
 {
+    printf("Registration Number: RA2211042010039\n");
     int points=get_int("how many points did you lose?\n");
 
     if (points > 2)
