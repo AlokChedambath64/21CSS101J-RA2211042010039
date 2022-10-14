@@ -2,6 +2,7 @@
 
 int main()
 {
+  printf("Registration Number: RA2211042010039\n");
   int height, base, area;
   printf("Enter the height of the parellogram:");
   scanf("%d", &height);
