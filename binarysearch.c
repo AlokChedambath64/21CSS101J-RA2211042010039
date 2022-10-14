@@ -2,6 +2,7 @@
 #include <cs50.h>
 
 int binarySearch(int array[], int x, int low, int high) {
+  printf("Registration Number: RA2211042010039\n");
   // Repeat until the pointers low and high meet each other
   while (low <= high) {
     int mid = low + (high - low) / 2;
