@@ -22,15 +22,15 @@ int main()
 
 void true_triangle(float s1, float s2, float s3)
 {
-    if ( (s1 + s2) > s3)
+    if ( (s1 + s2) >= s3)
     {
         printf("The triangle is valid\n");
     }
-    else if ((s1 + s3)> s2)
+    else if ((s1 + s3) >= s2)
     {
         printf("The triangle is valid\n");
     }
-    else if ((s2 + s3) > s1)
+    else if ((s2 + s3) >= s1)
     {
         printf("The triangle is valid\n");
     }
